@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[6],{RXBc:function(e,n,a){"use strict";a.r(n),a.d(n,"default",(function(){return o}));var r=a("q1tI"),t=a.n(r),l=a("Bl7J");function o(){return t.a.createElement(l.a,null,t.a.createElement("h1",null,"Building for science."),t.a.createElement("p",null,"I'm a software developer and researcher with a passion for building."),t.a.createElement("p",null,"You can see some of my work here."))}}}]);
+//# sourceMappingURL=component---src-pages-index-js-2a0f8844719fd938365a.js.map
