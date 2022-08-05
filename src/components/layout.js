@@ -1,6 +1,7 @@
 import React from "react"
 import { Link } from "gatsby"
 import { scale } from "../utils/typography"
+import resume from "../assets/resume-june-2022.pdf"
 
 import Footer from "./footer"
 import "./global.css"
@@ -38,7 +39,12 @@ const Layout = ({ location, title, children }) => {
           fontSize: `1rem`,
         }}
       >
-        researcher, software developer
+         researcher, software developer
+         <div>
+           <a href="https://scholar.google.com/citations?hl=en&user=Hg_y1pkAAAAJ">Papers</a>&nbsp;|&nbsp;
+           <a href={resume}>Resume</a>&nbsp;|&nbsp;
+           <a href="https://www.linkedin.com/in/dan-butler-a893a4107">LinkedIn</a>
+         </div>
       </div>
     </>
   )

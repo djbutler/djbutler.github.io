@@ -3,13 +3,13 @@ module.exports = {
   siteMetadata: {
     title: `Dan Butler`,
     author: {
-      name: `@ry_zou`,
-      summary: `web dev`,
+      name: `Dan Butler`,
+      summary: `researcher, software developer`,
     },
-    description: `A simple, fixed sidebar two columns Gatsby.js blog starter.`,
-    siteUrl: `https://renyuanz.github.io/leonids`,
+    description: `Dan Butler's homepage`,
+    siteUrl: `https://djbutler.github.io/`,
     social: {
-      twitter: `ry_zou`,
+      twitter: `djbutler09`,
     },
     defaultImage: "images/bg.jpeg",
   },
