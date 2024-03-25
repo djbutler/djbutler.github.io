@@ -1,7 +1,8 @@
 import React from "react"
 import { Link } from "gatsby"
 import { scale } from "../utils/typography"
-import resume from "../assets/resume-june-2022.pdf"
+// import resume from "../assets/resume-june-2022.pdf"
+import resume from "../assets/dan-butler-resume-dec-2023.pdf"
 
 import Footer from "./footer"
 import "./global.css"
